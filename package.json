@@ -1,0 +1,11 @@
+{
+  "name": "solidity-flash-loan-arbitrage",
+  "version": "1.0.0",
+  "description": "Flash loan arbitrage contract using Uniswap V3",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@uniswap/v3-core": "^1.0.1",
+    "@uniswap/v3-periphery": "^1.4.3",
+    "hardhat": "^2.19.4"
+  }
+}
